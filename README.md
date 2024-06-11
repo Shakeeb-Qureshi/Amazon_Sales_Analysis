@@ -4,7 +4,20 @@ A comprehensive analysis of Amazon sales data, identifying key metrics and facto
 
 ## Project Description 
 
-This project entails a comprehensive analysis of Swiggy's performance throughout the year 2019, leveraging insights derived from various session counts (listing, menu, cart, payment, and order sessions), channel traffic details, and supporting data encompassing metrics like average discounts, packaging charges, delivery charges, restaurant counts etc.
+This project entails a comprehensive analysis of Amazon Sales, leveraging insights and deriving Key Performing Indicators and other trends based on different attributes. 
+In this project, a comprehensive analysis is conducted on the Amazon Sales dataset, accompanied by insightful visualizations. The following analyses were performed:
+
+- Order Priority Wise Sales and Order Distribution
+- Year Wise Sales
+- Month Wise Sales
+- Month-Year Wise Sales
+- Item Type Wise Units Sold, Sales and Profit
+- Sales Channel Wise Profit, Sales, Cost and Units Sold
+- Region Wise Total Profit, Sales & Profit Margin
+- Region Wise Average Delivery Time
+- Country Wise Sales, Profit & Profit Margin
+- Profit Margin Wise Top 10 Countries
+- Profit Margin Wise Bottom 10 Countries
 
 ## Repository Content
 
